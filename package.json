@@ -1,0 +1,25 @@
+{
+  "name": "lpc",
+  "version": "0.0.0",
+  "description": "Universal Spritesheet generator for the Liberated Pixel Cup Assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamonOehlman/node-lpc.git"
+  },
+  "keywords": [
+    "pixelcup",
+    "sprite",
+    "asset",
+    "assets"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamonOehlman/node-lpc/issues"
+  },
+  "homepage": "https://github.com/DamonOehlman/node-lpc"
+}
